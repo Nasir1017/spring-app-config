@@ -1,5 +1,4 @@
-  application:
-    name: PRODUCT-SERVICE
+
   eureka:
     instance:
       prefer-ip-address: true
